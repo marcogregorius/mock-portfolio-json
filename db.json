@@ -10,7 +10,7 @@
 				"name": "US Equities (Total)",
 				"ticker": "VTI",
 				"currency": "USD",
-				"weight": 3,
+				"weight": 100,
 				"category": "US Equities"
 			},
 			{
