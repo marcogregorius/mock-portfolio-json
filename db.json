@@ -1,0 +1,90 @@
+{
+	"result": {
+		"user_id": 1,
+		"exp_return": 6.4,
+		"VaR": 5,
+		"optimized_for": "USD",
+		"portfolio": [
+			{
+				"id": 1,
+				"name": "US Equities (Total)",
+				"ticker": "VTI",
+				"currency": "USD",
+				"weight": 3,
+				"category": "US EQUITIES"
+			},
+			{
+				"id": 2,
+				"name": "Asia ex-Japan Equities",
+				"ticker": "VTI",
+				"currency": "SGD",
+				"weight": 12.3,
+				"category": "INTERNATIONAL EQUITIES"
+			},
+			{
+				"id": 3,
+				"name": "China Equities",
+				"ticker": "PGJ",
+				"currency": "Others",
+				"weight": 10,
+				"category": "INTERNATIONAL EQUITIES"
+			},
+			{
+				"id": 4,
+				"name": "US Equities (Dividends)",
+				"ticker": "VIG",
+				"currency": "USD",
+				"weight": 6,
+				"category": "US EQUITIES"
+			},
+			{
+				"id": 5,
+				"name": "US Total Stock",
+				"ticker": "VTI",
+				"currency": "SGD",
+				"weight": 15,
+				"category": "INTERNATIONAL EQUITIES"
+			},
+			{
+				"id": 6,
+				"name": "US Equities (Small-Cap, Growth)",
+				"ticker": "VBK",
+				"currency": "USD",
+				"weight": 1.2,
+				"category": "US EQUITIES"
+			},
+			{
+				"id": 7,
+				"name": "US Equities (Mid-Cap, Value)",
+				"ticker": "VOE",
+				"currency": "USD",
+				"weight": 3,
+				"category": "US EQUITIES"
+			},
+			{
+				"id": 8,
+				"name": "Convertible Bonds",
+				"ticker": "CWB",
+				"currency": "USD",
+				"weight": 18,
+				"category": "US EQUITIES"
+			},
+			{
+				"id": 8,
+				"name": "SPDR Euro STOXX 50 ETF",
+				"ticker": "FEZ",
+				"currency": "EUR",
+				"weight": 15,
+				"category": "EUROPEAN EQUITIES"
+			},
+			{
+				"id": 9,
+				"name": "WisdomTree Japan Hedged Equity Fund",
+				"ticker": "DXJ",
+				"currency": "JPY",
+				"weight": 10,
+				"category": "JAPAN EQUITIES"
+			}
+		]
+	}
+}
