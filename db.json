@@ -2,7 +2,7 @@
 	"result": {
 		"user_id": 1,
 		"exp_return": 6.4,
-		"VaR": 5,
+		"VaR": 3.4,
 		"optimized_for": "USD",
 		"portfolio": [
 			{
