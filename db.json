@@ -11,7 +11,7 @@
 				"ticker": "VTI",
 				"currency": "USD",
 				"weight": 3,
-				"category": "US EQUITIES"
+				"category": "US Equities"
 			},
 			{
 				"id": 2,
@@ -19,7 +19,7 @@
 				"ticker": "VTI",
 				"currency": "SGD",
 				"weight": 12.3,
-				"category": "INTERNATIONAL EQUITIES"
+				"category": "International Equities"
 			},
 			{
 				"id": 3,
@@ -27,7 +27,7 @@
 				"ticker": "PGJ",
 				"currency": "Others",
 				"weight": 10,
-				"category": "INTERNATIONAL EQUITIES"
+				"category": "International Equities"
 			},
 			{
 				"id": 4,
@@ -35,7 +35,7 @@
 				"ticker": "VIG",
 				"currency": "USD",
 				"weight": 6,
-				"category": "US EQUITIES"
+				"category": "US Equities"
 			},
 			{
 				"id": 5,
@@ -43,7 +43,7 @@
 				"ticker": "VTI",
 				"currency": "SGD",
 				"weight": 15,
-				"category": "INTERNATIONAL EQUITIES"
+				"category": "International Equities"
 			},
 			{
 				"id": 6,
@@ -51,7 +51,7 @@
 				"ticker": "VBK",
 				"currency": "USD",
 				"weight": 1.2,
-				"category": "US EQUITIES"
+				"category": "US Equities"
 			},
 			{
 				"id": 7,
@@ -59,7 +59,7 @@
 				"ticker": "VOE",
 				"currency": "USD",
 				"weight": 3,
-				"category": "US EQUITIES"
+				"category": "US Equities"
 			},
 			{
 				"id": 8,
@@ -67,7 +67,7 @@
 				"ticker": "CWB",
 				"currency": "USD",
 				"weight": 18,
-				"category": "US EQUITIES"
+				"category": "US Equities"
 			},
 			{
 				"id": 8,
@@ -75,7 +75,7 @@
 				"ticker": "FEZ",
 				"currency": "EUR",
 				"weight": 15,
-				"category": "EUROPEAN EQUITIES"
+				"category": "European Equities"
 			},
 			{
 				"id": 9,
@@ -83,7 +83,7 @@
 				"ticker": "DXJ",
 				"currency": "JPY",
 				"weight": 16.5,
-				"category": "JAPAN EQUITIES"
+				"category": "Japan Equities"
 			}
 		]
 	}
